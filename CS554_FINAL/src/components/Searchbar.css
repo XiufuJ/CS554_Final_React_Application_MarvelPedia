@@ -1,0 +1,9 @@
+/* .dropdown-item {
+    z-index: 100;
+} */
+
+.downshift-dropdown {
+    position: absolute;
+    z-index: 100;
+    min-width: 100%;
+}

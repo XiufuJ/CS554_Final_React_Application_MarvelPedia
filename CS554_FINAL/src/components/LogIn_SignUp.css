@@ -1,0 +1,55 @@
+.logAndSign {
+    width : 550px;
+    min-height :200px;
+    margin-top : 10%;
+    
+    background-color: #f1eeee;
+    position: absolute;
+    left: 50%;
+    transform : translate(-50%, 0%);
+}
+
+.logBackground {
+    background-image: url('../images/logInPage.jpg');
+    height : 1000px;
+    background-size: 100%;
+    position: relative;
+}
+
+.input {
+    margin-top : 5%;
+    margin-left : 45px;
+   
+}
+
+.inputLen {
+    margin-left : 30px;
+    width : 300px;
+}
+
+.labelLen {
+    width : 100px;
+}
+
+.btnProperty {
+    margin-top : 10px;
+    min-width : 100px;  
+}
+
+#signUpPart {
+    display : none;
+}
+
+.changePart {
+    margin-bottom : 30px;
+    margin-top : 20px;
+}
+
+#clickToLogIn {
+    display : none;
+}
+
+.left-space {
+    margin-left: 100px;
+}
+

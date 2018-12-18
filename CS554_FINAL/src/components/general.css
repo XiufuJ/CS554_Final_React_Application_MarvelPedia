@@ -1,0 +1,213 @@
+.hideInfo {
+    display: none;
+}
+
+.navItems {
+    margin-left: 20px;
+}
+
+
+.card-config {
+   
+    margin-bottom: 60px;
+    width: 20rem;
+}
+
+.card-config-hero{
+    width: 20%;
+    margin-bottom: 4%;
+}
+.card-img {
+    height:350px;
+}
+.card-intro {
+    height: 65px;
+}
+
+.card-list-config {
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-top: 40px;
+}
+.one-card {
+	transition: all 0.6s;
+}
+
+.one-card:hover {
+    transform: scale(1.2);
+    z-index:30;
+}
+
+.pags {
+    margin-top: 4%;
+    position: absolute;
+    left: 50%;
+    transform : translate(-50%, 0%);
+}
+
+.nav-title {
+    margin-left: 20px;
+}
+
+.detail-img {
+    height: 500px;
+
+}
+
+.comic-detail {
+    margin-left: 10%;
+    margin-top: 4%;
+    margin-right: 10%;
+}
+
+.labelLen {
+    width : 100px;
+}
+
+.detail-width {
+    width: 600px;
+}
+
+.top-margin-10 {
+    margin-top:10%;
+}
+.top-margin-5 {
+    margin-top: 5%;
+}
+
+.detail-hero-img {
+    margin-top : 3%;
+    height: 280px;
+    width: 400px;
+}
+.profile-top-2 {
+     margin-top:2%;
+}
+
+.profile-elements {
+    margin-top:3%;
+    position: relative;
+    max-height: 600px;
+    overflow: scroll;
+}
+
+.hero-detail { 
+    width: 80%;
+    position: absolute;
+    left:50%;
+    transform: translate(-50%, 0%);
+}
+
+.horizonal-middle {
+    position: absolute;
+    left:50%;
+    transform: translate(-50%, 0%);
+}
+
+.passage-center {
+    margin-bottom: 4%;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+.element-center {
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.min-height-profile {
+    min-height: 600px;
+}
+
+.bottom-20{
+    margin-bottom: 20px;
+}
+.right-3 {
+    margin-right: 3%;
+}
+.left-10 {
+    margin-left: 10%;
+}
+
+.comment-detail {
+    width: 30%;
+    height: 100px;
+    max-height: 400px;
+    overflow: auto;
+    transition: all 0.6s;
+}
+
+.comment-detail:hover {
+    transform: scale(1.2);
+    z-index:30;
+}
+.top-20 {
+    margin-top: 20px;
+}
+
+.comment-text-area {
+    width: 60%;
+    overflow: auto;
+}
+
+.pagination-input {
+    width: 80px;
+}
+
+.left-20 {
+    margin-left: 20px;
+}
+
+.carousel-size {
+   height: auto;
+}
+
+.hand:hover {
+    cursor: hand;
+}
+
+.modal-backdrop {
+    z-index: -1;
+}
+
+.hero-detail {
+    z-index: -1;
+}
+
+.test-middle {
+    position: absolute;
+    left:50%;
+    transform: translate(-50%, 0%);
+}
+
+.event-detail {
+    width: 45%;
+    height: 200px;
+    max-height: 400px;
+    overflow: auto;
+    transition: all 0.6s;
+}
+
+.event-detail:hover {
+    transform: scale(1.2);
+    z-index:30;
+}
+
+.event-middle {
+    position: absolute;
+    left:50%;
+    width: 60%;
+    transform: translate(-50%, 0%);
+}
+
+.refresh-button {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.g-icon {
+    height: 20px;
+    width: 20px;
+    margin-right: 5px;
+}
+
+

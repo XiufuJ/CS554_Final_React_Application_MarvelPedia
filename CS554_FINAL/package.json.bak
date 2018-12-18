@@ -1,0 +1,49 @@
+{
+  "name": "cs554_final",
+  "version": "1.0.0",
+  "description": "Team n00b's Repository for CS554",
+  "dependencies": {
+    "@progress/kendo-drawing": "^1.5.7",
+    "@progress/kendo-react-pdf": "^2.4.0",
+    "ajv": "^6.6.1",
+    "axios": "^0.18.0",
+    "crypto-js": "^3.1.9-1",
+    "downshift": "^3.1.6",
+    "firebase": "^5.7.0",
+    "jqeury": "^1.0.0",
+    "jquery": "^3.3.1",
+    "node-fetch": "^2.3.0",
+    "react": "^16.6.3",
+    "react-bootstrap": "^0.32.4",
+    "react-cookies": "^0.1.0",
+    "react-dom": "^16.6.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "react-scroll": "^1.7.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Masaic/CS554_FINAL.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Masaic/CS554_FINAL/issues"
+  },
+  "homepage": "https://github.com/Masaic/CS554_FINAL#readme",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
