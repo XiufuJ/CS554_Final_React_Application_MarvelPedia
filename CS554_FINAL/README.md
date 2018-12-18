@@ -1,7 +1,5 @@
 # CS554 Final Project
 
-- Team: n00b
-
 - Member:
   - Xiufu Jiang
   - Jiayi Liu
